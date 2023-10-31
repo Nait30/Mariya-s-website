@@ -82,3 +82,23 @@
 .staff__photo {
   width: 100%;
 }
+
+.reviews {
+  margin: 50px auto;
+}
+
+.reviews__list {
+  margin: 20px auto;
+}
+
+.interior__list {
+  display: grid;
+  gap: 10px;
+}
+
+.interior__item {
+  background: url(../images/nails-photo/nails.HEIC) no-repeat center;
+  background-size: cover;
+  min-height: 20vh;
+  color: yellow;
+}
